@@ -1,4 +1,4 @@
-package io.vertx.starter;
+package io.vertx.codeone.conduit;
 
 
 import io.vertx.core.Vertx;
